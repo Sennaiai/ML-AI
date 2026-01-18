@@ -26,3 +26,9 @@ Supporting references and methodological notes.
 ## Orientation
 
 The focus is on interpretable, well-validated models designed for real-world analytical and scientific applications.
+---
+## Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/senay-kahsay)
+- [Medium](https://medium.com/@kahssai.sen)
+
+> “We are the music while the music lasts.” — *T. S. Eliot*
